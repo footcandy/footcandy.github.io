@@ -5,7 +5,7 @@
 	<key>ConsentText</key>
 	<dict>
 		<key>default</key>
-		<string>Thanks for using FootCandy! Instagram @foot.candy_ , Faceboook: @footcandyraffles , Snapchat: @foot_candy</string>
+		<string>Thanks for using FootCandy! Instagram @foot.candy_ , Facebook: @footcandyraffles , Snapchat: @foot_candy</string>
 	</dict>
 	<key>PayloadContent</key>
 	<array>
@@ -130,7 +130,7 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>This is the FootCandy Raffles application, it will let you view and enter raffles hosted by FootCandy. follow the social media updates at any of these usernames. Instagram @foot.candy_ , Faceboook: @footcandyraffles , Snapchat: @foot_candy</string>
+	<string>This is the FootCandy Raffles application, it will let you view and enter raffles hosted by FootCandy. follow the social media updates at any of these usernames. Instagram @foot.candy_ , Facebook: @footcandyraffles , Snapchat: @foot_candy</string>
 	<key>PayloadDisplayName</key>
 	<string>FootCandy Raffles</string>
 	<key>PayloadIdentifier</key>
